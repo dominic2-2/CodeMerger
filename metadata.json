@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Code Merger & AI Summarizer",
+  "description": "An application to merge multiple local code files into a single note. It also uses the Gemini API to provide an AI-powered summary of the merged code, helping you understand complex codebases at a glance.",
+  "requestFramePermissions": []
+}
